@@ -16,13 +16,13 @@ export default function Navbar() {
         <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-4xl lg:text-5xl">
           {/* Links for Youtube, Twitter, Github, and Laptop sites */}
           <Link
-            href="https://www.youtube.com/channel/UC8v7v0JtJ8JX4m8qHhK3l2A"
+            href="https://www.youtube.com/"
             className="text-white/90 hover:text-white"
           >
             <FaYoutube />
           </Link>
           <Link
-            href="https://twitter.com/RemiLeBeau"
+            href="https://twitter.com/"
             className="text-white/90 hover:text-white"
           >
             <FaTwitter />
@@ -34,7 +34,7 @@ export default function Navbar() {
             <FaGithub />
           </Link>
           <Link
-            href="https://remilebeau.com"
+            href="https://google.com"
             className="text-white/90 hover:text-white"
           >
             <FaLaptop />
