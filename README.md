@@ -1,8 +1,8 @@
 # Blog Page
 
-## [Click here to launch the app](https://nextjs-blogproject.vercel.app/)
-
 Sample blog website
+
+## [Click here to launch the app](https://nextjs-blogproject.vercel.app/)
 
 Created using
 
