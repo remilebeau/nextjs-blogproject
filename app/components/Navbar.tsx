@@ -28,7 +28,7 @@ export default function Navbar() {
             <FaTwitter />
           </Link>
           <Link
-            href="https://github.com/RemiLeBeau"
+            href="https://github.com/remilebeau"
             className="text-white/90 hover:text-white"
           >
             <FaGithub />
