@@ -1,6 +1,6 @@
 # Blog Page
 
-Sample blog website
+A sample blog website created using Next.js. The blogposts are pulled from a separate Github repo. This way, blogposts can be created, edited, and deleted without having to reploy the entire application.
 
 ## [Click here to launch the app](https://nextjs-blogproject.vercel.app/)
 
